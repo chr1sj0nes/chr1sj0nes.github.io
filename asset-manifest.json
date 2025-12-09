@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.399e2d04.css",
+    "main.js": "/static/js/main.90d74b6e.js",
+    "static/js/453.db67f832.chunk.js": "/static/js/453.db67f832.chunk.js",
+    "static/media/nice.jpg": "/static/media/nice.d8c657a6c7c30886788e.jpg",
+    "static/media/xmas_quantum_computer.jpg": "/static/media/xmas_quantum_computer.1e5201b43d0d3b9eaa56.jpg",
+    "static/media/naughty.jpg": "/static/media/naughty.7179d541eff0262faff2.jpg",
+    "index.html": "/index.html",
+    "main.399e2d04.css.map": "/static/css/main.399e2d04.css.map",
+    "main.90d74b6e.js.map": "/static/js/main.90d74b6e.js.map",
+    "453.db67f832.chunk.js.map": "/static/js/453.db67f832.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.399e2d04.css",
+    "static/js/main.90d74b6e.js"
+  ]
+}
